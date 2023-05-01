@@ -1,5 +1,9 @@
 # Online Compiler using Web Development
 
+Made with:
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery)](https://skills.thijs.gg)
+
 The topic we have undertaken for the mini project is <italic>Online Compiler for Web-Development</italic>.
 Compilers play an important role in running programs. It converts source code written in the form of text into an executable format known as the object code. 
 If a compiler is made to run manually on every system it will occupy a lot of space on the machine.<br>
